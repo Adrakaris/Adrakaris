@@ -1,4 +1,13 @@
-### Hi there 👋
+## Ziida Kanai 🐉
+
+This is Yijun Hu. I do computer science at the University of Warwick.
+
+Here is my corner of GitHub.
+
+-----
+
+日日采莲去，洲张多暮归。  
+弄篙莫溅水，畏湿红莲衣。
 
 <!--
 **Adrakaris/Adrakaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
