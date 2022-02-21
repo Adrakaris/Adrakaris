@@ -1,10 +1,12 @@
 ## Ziida Kanai 🐉
 
-This is Yijun Hu. I do computer science at the University of Warwick.
+Hi. I do computer science at the University of Warwick.
 
 I'm comfortable with Python, Java, and HTML/CSS, with some *basic* JavaScript. I've also done a bit of Haskell and C. 
 
 Here is my corner of GitHub.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrakaris&count_private=true&show_icons=true&theme=monokai)
 
 -----
 
