@@ -6,7 +6,7 @@ I'm comfortable with Python, Java, and HTML/CSS, with some *basic* JavaScript. I
 
 Here is my corner of GitHub.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrakaris&count_private=true&show_icons=true&theme=monokai)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrakaris&count_private=true&show_icons=true&theme=monokai) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrakaris&layout=compact&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
