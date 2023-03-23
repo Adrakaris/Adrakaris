@@ -14,7 +14,3 @@ Here is my corner of GitHub.
 
 日日采莲去，洲张多暮归。  
 弄篙莫溅水，畏湿红莲衣。
-
------
-
-Website: [yijun.hu](https://pro.yijun.hu)
