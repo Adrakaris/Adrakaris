@@ -2,7 +2,7 @@
 
 Hi. I do computer science at the University of Warwick.
 
-I'm comfortable with Python, Java, and HTML/CSS, with some *basic* JavaScript. I've also done a bit of Haskell and C. 
+I'm comfortable with Python, Java, and HTML/CSS, with some *basic* JavaScript. I've also done a bit of Haskell and C. I generally know a bit about AI and machine learning stuff, especially related to image processing.
 
 Here is my corner of GitHub.
 
