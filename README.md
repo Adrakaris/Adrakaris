@@ -4,9 +4,13 @@ Hi. I do computer science at the University of Warwick.
 
 Technically I'm meant to be a AI type person but in reality I just torture myself by hand-writing CSS.
 
+It's a shame that Jupyer Notebook lines always get massively overcounted but the HTML is unfortunately real. 
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrakaris&count_private=true&show_icons=true&theme=monokai) -->
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrakaris&layout=compact&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+\- **Python** - **Java** - TeX - C - C++ - Haskell? - JS (kinda) - C# (kinda) -
 
 -----
 
