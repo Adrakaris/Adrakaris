@@ -1,10 +1,10 @@
 ## Ziida Kanai 🐉 問天地安好
 
-Hi. I do computer science at the University of Warwick.
+Hi. I did computer science at the University of Warwick and now work in Software Development.
 
 Technically I'm meant to be a AI type person but in reality I just torture myself by hand-writing CSS.
 
-It's a shame that Jupyer Notebook lines always get massively overcounted but the HTML is unfortunately real. 
+It's a shame that Jupyer Notebook lines always get massively overcounted but the HTML is unfortunately real. I may make my site repo private sometime, maybe it'll change? 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrakaris&count_private=true&show_icons=true&theme=monokai) -->
 
