@@ -1,8 +1,8 @@
 ## Ziida Kanai 🐉 問天地安好
 
-Hi. I did computer science at the University of Warwick and now work in Software Development.
+Hi. I work in Software Development.
 
-Technically I'm meant to be a AI type person but in reality I just torture myself by hand-writing CSS.
+I relish in the masochistic craft of Entprise:tm: Java and hand-writing CSS.
 
 It's a shame that Jupyer Notebook lines always get massively overcounted but the HTML is unfortunately real. I may make my site repo private sometime, maybe it'll change? 
 
@@ -10,7 +10,7 @@ It's a shame that Jupyer Notebook lines always get massively overcounted but the
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adrakaris&layout=compact&theme=monokai&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-\- **Python** - **Java** - TeX - C - C++ - Haskell? - JS (kinda) - C# (kinda) -
+\- **Python** - **Java** - TeX - JS - C# (kinda) - C (ish) - C++ (reluctantly) - Haskell? (Type error) -
 
 -----
 
