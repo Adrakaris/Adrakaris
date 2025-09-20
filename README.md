@@ -2,9 +2,7 @@
 
 Hi. I work in Software Development.
 
-I relish in the masochistic craft of Entprise:tm: Java and hand-writing CSS.
-
-It's a shame that Jupyer Notebook lines always get massively overcounted but the HTML is unfortunately real. 
+It's a shame that Jupyer Notebook lines always get massively overcounted. 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adrakaris&count_private=true&show_icons=true&theme=monokai) -->
 
