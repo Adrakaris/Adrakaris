@@ -1,4 +1,4 @@
-## Ziida Kanai 🐉 問天地安好
+## 問天地安好
 
 Hi. I work in Software Development.
 
@@ -14,7 +14,5 @@ It's a shame that Jupyer Notebook lines always get massively overcounted.
 
 <!-- 日日采莲去，洲张多暮归。  
 弄篙莫溅水，畏湿红莲衣。-->
-西風吹老洞亭波，    
-一夜湘君白髮多。   
-醉後不知天在水，   
-滿船清夢壓星河。   
+西風吹老洞亭泊，一夜湘君白髮多。   
+醉後不知天在水，滿船清夢壓星河。   
